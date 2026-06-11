@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://encyclopedia-triple-pennsylvania-basename.trycloudflare.com/vnc.html
+URL       : https://pre-manor-philip-cet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 04:27:20
+Created   : 2026-06-11 09:18:05
 =======================================================
