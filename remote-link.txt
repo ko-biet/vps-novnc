@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://types-came-thereafter-lab.trycloudflare.com/vnc.html
+URL       : https://laugh-par-dangerous-proceed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 16:21:42
+Created   : 2026-06-13 21:24:16
 =======================================================
