@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://threatened-increasingly-occasionally-meaningful.trycloudflare.com/vnc.html
+URL       : https://design-licenses-characteristic-peas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 19:09:22
+Created   : 2026-06-15 22:25:54
 =======================================================
