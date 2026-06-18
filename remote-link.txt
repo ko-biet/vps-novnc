@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vanilla-online-cubic-workforce.trycloudflare.com/vnc.html
+URL       : https://alex-explaining-des-navy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 13:34:52
+Created   : 2026-06-18 18:11:57
 =======================================================
