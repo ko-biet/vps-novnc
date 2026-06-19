@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://integral-housing-undergraduate-hits.trycloudflare.com/vnc.html
+URL       : https://agreements-provisions-tablet-glossary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 13:40:38
+Created   : 2026-06-19 17:24:19
 =======================================================
