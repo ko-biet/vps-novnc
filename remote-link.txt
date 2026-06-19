@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://participation-context-jade-beta.trycloudflare.com/vnc.html
+URL       : https://marina-candy-slope-counts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 22:22:06
+Created   : 2026-06-19 04:57:24
 =======================================================
