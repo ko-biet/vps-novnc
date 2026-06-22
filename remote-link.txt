@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://worm-psychology-biography-home.trycloudflare.com/vnc.html
+URL       : https://finger-oxford-adapted-identical.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 05:02:00
+Created   : 2026-06-22 10:48:58
 =======================================================
