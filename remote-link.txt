@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://strategy-apollo-injured-changelog.trycloudflare.com/vnc.html
+URL       : https://areas-higher-nov-champions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 16:05:33
+Created   : 2026-07-12 20:59:32
 =======================================================
