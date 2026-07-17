@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://appliances-statutes-archived-north.trycloudflare.com/vnc.html
+URL       : https://exempt-lone-finite-farmers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-17 03:16:12
+Created   : 2026-07-17 07:24:22
 =======================================================
