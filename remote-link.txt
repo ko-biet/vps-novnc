@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://perfect-visits-egg-belong.trycloudflare.com/vnc.html
+URL       : https://effective-impression-framing-favourite.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 09:25:55
+Created   : 2026-09-02 14:16:44
 =======================================================
