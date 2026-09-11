@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pose-stand-nextel-chevy.trycloudflare.com/vnc.html
+URL       : https://patrol-thus-analyst-potentially.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 14:12:38
+Created   : 2026-09-11 18:20:52
 =======================================================
