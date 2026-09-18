@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://harder-nvidia-maternity-premises.trycloudflare.com/vnc.html
+URL       : https://increased-appears-mines-sing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 09:32:39
+Created   : 2026-09-18 14:17:17
 =======================================================
