@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://forge-deployment-conversation-absorption.trycloudflare.com/vnc.html
+URL       : https://salvador-routes-shortcuts-connector.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 04:18:48
+Created   : 2026-09-21 10:34:44
 =======================================================
