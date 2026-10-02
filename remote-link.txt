@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://auckland-las-seeing-muscles.trycloudflare.com/vnc.html
+URL       : https://draft-antibodies-rays-maker.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 05:00:18
+Created   : 2026-10-02 11:03:00
 =======================================================
