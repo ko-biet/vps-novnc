@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wyoming-description-truly-cited.trycloudflare.com/vnc.html
+URL       : https://glen-design-hurricane-internship.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 01:56:56
+Created   : 2026-10-13 12:34:41
 =======================================================
