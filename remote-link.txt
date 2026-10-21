@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://debug-measuring-structure-struggle.trycloudflare.com/vnc.html
+URL       : https://suit-about-exposure-investments.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 04:12:18
+Created   : 2026-10-21 09:57:10
 =======================================================
