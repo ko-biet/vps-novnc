@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://indicator-proteins-wish-del.trycloudflare.com/vnc.html
+URL       : https://thickness-north-provision-sword.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 23:00:53
+Created   : 2026-10-24 04:03:27
 =======================================================
