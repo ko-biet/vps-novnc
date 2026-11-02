@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cheapest-hawk-explorer-resumes.trycloudflare.com/vnc.html
+URL       : https://try-examinations-allocation-gnu.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 05:22:06
+Created   : 2026-11-02 20:09:44
 =======================================================
