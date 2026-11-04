@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://aquatic-identified-transformation-half.trycloudflare.com/vnc.html
+URL       : https://afternoon-sections-advance-managers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 00:31:56
+Created   : 2026-11-04 12:53:38
 =======================================================
