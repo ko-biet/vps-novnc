@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://afternoon-sections-advance-managers.trycloudflare.com/vnc.html
+URL       : https://farms-bracelets-disturbed-murray.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 12:53:38
+Created   : 2026-11-04 21:10:49
 =======================================================
