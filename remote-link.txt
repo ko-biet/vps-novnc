@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://farms-bracelets-disturbed-murray.trycloudflare.com/vnc.html
+URL       : https://accountability-concrete-keyboard-constructed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:10:49
+Created   : 2026-11-05 05:59:45
 =======================================================
