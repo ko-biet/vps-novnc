@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mirror-academics-insulin-velocity.trycloudflare.com/vnc.html
+URL       : https://modules-finances-blacks-status.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:58:04
+Created   : 2026-11-06 00:57:22
 =======================================================
