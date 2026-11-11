@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://responsible-permitted-daily-checklist.trycloudflare.com/vnc.html
+URL       : https://beer-afterwards-duplicate-pilot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-11 12:33:23
+Created   : 2026-11-11 21:50:44
 =======================================================
