@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roof-customized-wear-flows.trycloudflare.com/vnc.html
+URL       : https://mhz-consensus-restricted-romantic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 02:16:54
+Created   : 2026-11-18 13:46:10
 =======================================================
